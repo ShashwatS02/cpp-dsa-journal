@@ -21,4 +21,14 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 03 – Loop Applications & Number Practice
+
+🔁 Practiced numeric loops: counting, reverse, even-steps  
+🔡 Printed character sequences (A–Z) using loops  
+➕ Built summation and factorial logic via iterative loops  
+📊 Wrote code to calculate power, check prime, and generate multiplication tables  
+🧠 Solved mini-problems using loop-based logic: Fibonacci, squares, cubes
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
