@@ -31,4 +31,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 04 – Pattern Printing with Nested Loops
+
+🔁 Practiced square and triangular patterns using nested `for` loops  
+🔢 Printed number grids, sequences, and continuous counters  
+🔡 Generated alphabet grids using ASCII character math  
+🌟 Built pyramid and triangular patterns using `*` and numeric logic  
+🧠 Improved understanding of loop structure, row-column iteration, and formatting output
+
+---
+
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
