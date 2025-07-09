@@ -51,5 +51,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 06 – Complex Pattern Designs & Mirrored Structures
+
+📐 Created pyramid, triangle, and mirrored patterns using nested loops  
+🔠 Printed character-based palindromes and reverse-alphabet pyramids  
+🔢 Generated square, cube, and numeric pyramids with spacing logic  
+🌗 Built symmetric top-bottom and left-right aligned patterns  
+🧠 Practiced ASCII math for characters and refined formatting skills
+
+---
+
 
 🟢 Daily commits are made to maintain consistency and contribute in public.
