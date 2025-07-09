@@ -41,5 +41,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 05 – Advanced Pattern Printing
+
+🔁 Explored reverse triangle and pyramid-style patterns using nested loops  
+🔢 Printed decreasing and increasing sequences row-wise (e.g., `5 4 3 2 1`, `1 2 3 4 5`)  
+🔠 Practiced alphabet-based patterns with characters like `A B C`, `a a a`  
+📐 Built right-aligned pyramids using space padding (`"  "`) and numbers/characters  
+🧠 Gained deeper understanding of row-column relationships, spacing, and reverse logic
+
+---
+
 
 🟢 Daily commits are made to maintain consistency and contribute in public.
