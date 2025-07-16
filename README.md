@@ -72,5 +72,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 09 – Functions, Number Theory & LeetCode Logic
+
+🧮 Practiced custom functions with and without parameters, including default values  
+🔁 Built factorial, combination (nCr), and number reversal logic using loops  
+🔢 Converted numbers between binary, decimal, and octal formats  
+♻️ Implemented `swap()` using both pass-by-value and pass-by-reference  
+🧠 Solved prime check and "Ugly Number" validation problems  
+♟️ Solved LeetCode-style math challenge: Squares in N×N chessboard
+
+---
 
 🟢 Daily commits are made to maintain consistency and contribute in public.
