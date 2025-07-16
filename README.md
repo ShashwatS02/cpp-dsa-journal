@@ -61,5 +61,16 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+📅 Day 07 & 08 – Loops, Logic, and Control Flow
+
+🔁 Practiced `while`, `do-while`, and `for` loops for conditions, counters, and series  
+🧠 Explored `break` and `continue` for flow control  
+🧮 Implemented number conversions (binary ↔ decimal) using arithmetic and bitwise ops  
+🔢 Used `switch` to handle menu-based outputs (months, days)  
+📊 Evaluated complex expressions using logical, relational, and bitwise operators  
+🧪 Solved real-world logic: even/odd checks, teen age validator, temperature range
+
+---
+
 
 🟢 Daily commits are made to maintain consistency and contribute in public.
