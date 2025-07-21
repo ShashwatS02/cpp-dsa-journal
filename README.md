@@ -83,4 +83,18 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-10
+
+- 🧮 Practiced finding min/max values in arrays using loops
+- 📊 Calculated sum and average of array elements
+- 🔍 Searched for a special element in an array
+- 🔡 Initialized and printed character arrays
+- 🧠 Found second-largest element in array with `n > 3`
+- 📐 Used built-in functions: `min`, `max`, `sqrt`, `pow`, `abs`
+- 💪 Created custom functions like `countdigit` and `Armstrong`
+- ✅ Solved bit manipulation problems (`setBits`, `countBitsFlip`)
+- 🎯 Implemented modular arithmetic for circular counting (modulo logic)
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
