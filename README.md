@@ -97,4 +97,21 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-11
+
+- 🔁 Reversed arrays using two-pointer method  
+- 🐑 Generated Fibonacci series using arrays  
+- 🥈 Found second-largest element in array (`n > 3`)  
+- 🥉 Retrieved third-smallest element after sorting  
+- 📏 Compared array size with `sizeof()` inside functions  
+- ❓ Found missing number and smallest positive missing number  
+- 🚫 Moved all negative elements to end of array  
+- 🔢 Counted number of occurrences of specific elements  
+- 🧠 Found first repeating element in an array  
+- 🔍 Counted elements between two values  
+- ⏱️ Learned Big O, Theta, Omega notations  
+- 📊 Practiced 10 examples on time and space complexity
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
