@@ -128,4 +128,19 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-13
+
+- 🗂 Practiced 2D Arrays: initialization, input, and output
+- 📊 Implemented prefix and suffix sum techniques for array problems
+- 🎯 Solved prefix-suffix based problems to optimize range queries
+- 🔍 Generated and printed all subarrays from a given array
+- 🧰 Worked with vectors: creation, size vs capacity, insertion, deletion, clearing
+- ⚡ Practiced vector operations: push_back, pop_back, erase, insert, clear
+- 📈 Applied sorting in ascending and descending order using sort and custom comparators
+- 🔎 Performed binary_search and find operations on sorted vectors
+- 🎯 Used STL algorithms like lower_bound and upper_bound for element positions
+- 📤 Passed vectors as function parameters for modular programming
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
