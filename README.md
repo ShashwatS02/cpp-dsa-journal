@@ -114,4 +114,18 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-12
+
+- 🔄 What is Sorting in C++
+- ✅ Learned and implemented **Selection Sort** algorithm
+- 📈 Practiced 10 examples on **Time and Space Complexity**
+- 🔁 Learned **Bubble Sort** with multiple approaches
+- 🧠 Solved a Bubble Sort problem on GeeksforGeeks
+- ✍️ Understood and coded **Insertion Sort** using different methods
+- 🎯 Introduced to **Binary Search** algorithm
+- 🔎 Implemented Binary Search in C++
+- 🧩 Practiced Binary Search with a problem on LeetCode
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
