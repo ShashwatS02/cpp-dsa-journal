@@ -143,4 +143,16 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-14
+
+- 🗂 Continued practice with 2D arrays and 2D vectors
+- 🖊 Took user input for 2D vectors and displayed them
+- 🔠 Explored character arrays and string basics in C++
+- 📝 Worked with string functions like `append`, `push_back`, and `pop_back`
+- 🔄 Reversed strings manually using two-pointer approach
+- 📏 Calculated string length without using built-in functions
+- 🔍 Checked if a given string is a palindrome
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
