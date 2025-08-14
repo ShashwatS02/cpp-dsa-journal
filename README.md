@@ -155,4 +155,18 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-15
+
+- 🖱 Learned basics of pointers in C++
+- 📦 Explored pointer arithmetic and memory addressing
+- 🔄 Practiced pass-by-value, pass-by-pointer, and pass-by-reference swapping
+- 🗂 Worked with reference variables and their relation to original variables
+- 📋 Modified vectors and arrays using functions with reference and pointer parameters
+- 🔢 Implemented functions to manipulate array elements (doubling values, modifying via references)
+- 🌐 Learned about double and triple pointers
+- 🧠 Practiced pointer increment via double pointer parameter
+- 🔤 Explored pointer behavior with character arrays and pointer arithmetic on strings
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
