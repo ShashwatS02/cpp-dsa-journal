@@ -169,4 +169,17 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-16
+
+- 🧮 Practiced 2D arrays with pointers for better memory handling
+- 🗄️ Learned dynamic memory management using `new` and `delete`
+- 🔁 Implemented basic recursion for printing numbers and patterns
+- 🔢 Printed even numbers using recursion in multiple ways
+- ✖️ Implemented factorial calculation with recursion
+- ➕ Calculated sum of first N natural numbers recursively
+- 🔋 Computed power of a number using recursion
+- 🟦 Calculated sum of squares of first N numbers using recursion
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
