@@ -182,4 +182,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-17
+
+- 🔎 Implemented recursive linear search in arrays  
+- ⚡ Practiced recursive binary search for sorted arrays  
+- 🔄 Checked if a string is a palindrome using recursion  
+- 🗣️ Counted vowels in a string with recursion  
+- 🔃 Reversed a string recursively  
+- 🔠 Converted lowercase characters to uppercase recursively
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
