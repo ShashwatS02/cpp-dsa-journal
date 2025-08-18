@@ -193,4 +193,16 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-18  
+
+- 🔀 Implemented **Merge Sort** algorithm for efficient `O(n log n)` sorting  
+- ⚡ Practiced **Quick Sort** with recursion and partition logic  
+- 🧩 Solved problems on **subsequences** and **subsets** using recursion  
+- 🎯 Worked on **Target Sum** problem using backtracking  
+- 🔁 Extended Target Sum with **repetition allowed**  
+- ➕ Solved **Perfect Sum Problem** (counting subsets with given sum)  
+- 🧵 Explored subsequences of strings through recursion  
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
