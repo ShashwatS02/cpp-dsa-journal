@@ -205,4 +205,24 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-19
+
+- 🌀 Solved **backtracking problems**:  
+  - Predict the Winner  
+  - Rat in a Maze  
+  - N-bit binary numbers with more 1s than 0s  
+- 🏛️ Introduction to **OOPs in C++**:  
+  - What is Class & Object  
+  - Padding in memory layout  
+  - Static vs Dynamic memory allocation  
+- ⚙️ Practiced **constructors & destructors**:  
+  - Default, Parameterized, Copy, Inline  
+  - Constructor overloading  
+  - Destructor lifecycle  
+- 📦 Implemented **Encapsulation & Abstraction** concepts  
+- 🗂️ Learned about **Static Members and Static Member Functions**  
+- 🧩 Implemented **permutation generation** using recursion and backtracking
+
+---
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
