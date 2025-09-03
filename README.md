@@ -225,4 +225,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-20 and 21
+
+- 🔗 Created and traversed Doubly Linked List (DLL) from arrays using recursion
+- ➕ Implemented insertion in DLL at given positions (start, middle, and end)
+- ❌ Practiced deleting nodes in DLL (single node, first node, last node, and specific positions)
+- ♻️ Converted array elements into a Doubly Linked List dynamically
+- 🧵 Explored recursive approaches to build and manipulate DLL
+
+---
+
+
 🟢 Daily commits are made to maintain consistency and contribute in public.
