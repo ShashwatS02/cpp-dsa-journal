@@ -235,5 +235,15 @@ This repository documents my structured daily progress in mastering C++ for DSA 
 
 ---
 
+## 📅 Day-22
 
+- 📚 Introduction to **Stack** and its core operations (push, pop, peek, isEmpty, size)
+- 🔢 Implemented stack using **arrays** with custom class
+- 🔗 Built stack using **Linked List** for dynamic memory handling
+- ⚡ Explored stack implementation with **STL `stack` container**
+- ✅ Practiced stack-based problems:
+  - Parenthesis matching using stack
+ 
+ --- 
+ 
 🟢 Daily commits are made to maintain consistency and contribute in public.
